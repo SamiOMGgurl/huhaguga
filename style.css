@@ -1,0 +1,46 @@
+body
+{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlohE2RaoNT9mHhEaIubFSnp5o6vkrSCMS8w&usqp=CAU");
+    background-size: contain;
+}
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+#img
+{
+    width : 25%;
+    height : 30%;
+}
+img:hover
+{
+    width : 45%;
+    height : 50%; 
+}
+footer
+{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color : maroon;
+    position : fixed;
+    bottom : 0;
+    width : 100%;
+    font-family:'Georgia';
+    font-style: italic;
+    font-size:medium;
+}
